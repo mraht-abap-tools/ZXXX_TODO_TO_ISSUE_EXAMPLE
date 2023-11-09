@@ -9,5 +9,5 @@ REPORT zz_r_todo_to_github_issues.
 "assignees: mraht
 WRITE: '0001'.
 
-##NEW " Implement new function for number 0003
+##NEW " Implement new function for number 0001
 "labels: help wanted, question
