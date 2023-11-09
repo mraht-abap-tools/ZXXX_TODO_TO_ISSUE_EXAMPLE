@@ -1,2 +1,2 @@
 # todo_to_github_issues
-Example for todo-to-issue-action (alstr)
+Example for https://github.com/alstr/todo-to-issue-action (ABAP)
