@@ -19,5 +19,5 @@ jobs:
               with:
                   CLOSE_ISSUES: true
                   AUTO_P: true
-                  AUTO_ASSIGN: true
+                  AUTO_ASSIGN: false
                   IDENTIFIERS: '[{"name": "TODO", "labels": ["todo"]}, {"name": "NEW", "labels": ["new"]}, {"name": "FIX", "labels": ["bug"]}, {"name": "OPT", "labels": ["opt"]}]'
