@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT zcas_r_todo_to_github_issues.
+REPORT zz_r_todo_to_github_issues.
 
 ##FIX " Fix wrong number (0001 > 0003)
 "assignees: mraht
