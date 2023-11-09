@@ -15,9 +15,9 @@ jobs:
         steps:
             - uses: "actions/checkout@v3"
             - name: "TODO flags to GitHub issues"
-              uses: "alstr/todo-to-issue-action@v4"
+              uses: "mraht/todo-to-issue-action@v4"
               with:
                   CLOSE_ISSUES: true
                   AUTO_P: true
                   AUTO_ASSIGN: false
-                  IDENTIFIERS: '[{"name": "TODO", "labels": [""]}, {"name": "NEW", "labels": ["new"]}, {"name": "FIX", "labels": ["bug"]}, {"name": "OPT", "labels": ["opt"]}]'
+                  IDENTIFIERS: '[{"name": "NEW", "labels": ["new"]}, {"name": "FIX", "labels": ["bug"]}, {"name": "OPT", "labels": ["opt"]}]'
